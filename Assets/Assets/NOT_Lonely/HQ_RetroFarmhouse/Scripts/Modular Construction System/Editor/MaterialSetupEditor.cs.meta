@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 8ff45ed5b1d4a4a4a85f63b349d47557
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 154929
+  packageName: HQ Retro Farmhouse (Modular)
+  packageVersion: 1.2.2
+  assetPath: Assets/NOT_Lonely/HQ_RetroFarmhouse/Scripts/Modular Construction System/Editor/MaterialSetupEditor.cs
+  uploadId: 403257
