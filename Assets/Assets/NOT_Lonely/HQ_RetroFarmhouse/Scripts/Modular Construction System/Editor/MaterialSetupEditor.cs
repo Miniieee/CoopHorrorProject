@@ -1,7 +1,8 @@
 ﻿using UnityEngine;
 using System.Collections;
-using Sirenix.OdinInspector.Editor;
 using UnityEditor;
+using Sirenix.OdinInspector.Editor;
+
 
 namespace NOTLonely_MCS
 {

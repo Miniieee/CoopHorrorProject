@@ -3191,6 +3191,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 2122039410336716484, guid: 9ed823bd0e43b514cbe06c8437b59819, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 2986529126079873384, guid: 9ed823bd0e43b514cbe06c8437b59819, type: 3}
       propertyPath: m_Name
       value: NetworkManager

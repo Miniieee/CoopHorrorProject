@@ -1,0 +1,143 @@
+fileFormatVersion: 2
+guid: c177b33ae09b4e04993c9b0139183f40
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Axis
+    100002: Button
+    100004: Lever
+    100006: //RootNode
+    100008: RecordPlayer_LOD0
+    100010: RecordPlayer_LOD1
+    100012: ToneArm_LOD0
+    100014: ToneArm_LOD1
+    100016: Turntable_LOD0
+    100018: Turntable_LOD1
+    400000: Axis
+    400002: Button
+    400004: Lever
+    400006: //RootNode
+    400008: RecordPlayer_LOD0
+    400010: RecordPlayer_LOD1
+    400012: ToneArm_LOD0
+    400014: ToneArm_LOD1
+    400016: Turntable_LOD0
+    400018: Turntable_LOD1
+    2100000: RecordPlayer_mtl
+    2300000: Axis
+    2300002: Button
+    2300004: Lever
+    2300006: RecordPlayer_LOD0
+    2300008: RecordPlayer_LOD1
+    2300010: ToneArm_LOD0
+    2300012: ToneArm_LOD1
+    2300014: Turntable_LOD0
+    2300016: Turntable_LOD1
+    3300000: Axis
+    3300002: Button
+    3300004: Lever
+    3300006: RecordPlayer_LOD0
+    3300008: RecordPlayer_LOD1
+    3300010: ToneArm_LOD0
+    3300012: ToneArm_LOD1
+    3300014: Turntable_LOD0
+    3300016: Turntable_LOD1
+    4300000: RecordPlayer_LOD0
+    4300002: Axis
+    4300004: ToneArm_LOD1
+    4300006: ToneArm_LOD0
+    4300008: Turntable_LOD0
+    4300010: Turntable_LOD1
+    4300012: Lever
+    4300014: Button
+    4300016: RecordPlayer_LOD1
+    20500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages:
+    - 0.25
+    - 0.01
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 154929
+  packageName: HQ Retro Farmhouse (Modular)
+  packageVersion: 1.2.2
+  assetPath: Assets/NOT_Lonely/HQ_RetroFarmhouse/Meshes/RecordPlayer.FBX
+  uploadId: 403257

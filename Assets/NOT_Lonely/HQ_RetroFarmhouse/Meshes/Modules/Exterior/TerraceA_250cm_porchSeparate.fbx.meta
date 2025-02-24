@@ -1,0 +1,440 @@
+fileFormatVersion: 2
+guid: f06b0ce4258270f40aef55c51bb9cff1
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: CONVEXCOLL_TerraceA_250cm_porchSeparate
+    100002: CONVEXCOLL_TerraceA_250cm_porchSeparate 1
+    100004: CONVEXCOLL_TerraceA_250cm_porchSeparate 10
+    100006: CONVEXCOLL_TerraceA_250cm_porchSeparate 11
+    100008: CONVEXCOLL_TerraceA_250cm_porchSeparate 12
+    100010: CONVEXCOLL_TerraceA_250cm_porchSeparate 13
+    100012: CONVEXCOLL_TerraceA_250cm_porchSeparate 14
+    100014: CONVEXCOLL_TerraceA_250cm_porchSeparate 15
+    100016: CONVEXCOLL_TerraceA_250cm_porchSeparate 16
+    100018: CONVEXCOLL_TerraceA_250cm_porchSeparate 17
+    100020: CONVEXCOLL_TerraceA_250cm_porchSeparate 18
+    100022: CONVEXCOLL_TerraceA_250cm_porchSeparate 19
+    100024: CONVEXCOLL_TerraceA_250cm_porchSeparate 2
+    100026: CONVEXCOLL_TerraceA_250cm_porchSeparate 20
+    100028: CONVEXCOLL_TerraceA_250cm_porchSeparate 21
+    100030: CONVEXCOLL_TerraceA_250cm_porchSeparate 22
+    100032: CONVEXCOLL_TerraceA_250cm_porchSeparate 23
+    100034: CONVEXCOLL_TerraceA_250cm_porchSeparate 24
+    100036: CONVEXCOLL_TerraceA_250cm_porchSeparate 25
+    100038: CONVEXCOLL_TerraceA_250cm_porchSeparate 26
+    100040: CONVEXCOLL_TerraceA_250cm_porchSeparate 27
+    100042: CONVEXCOLL_TerraceA_250cm_porchSeparate 28
+    100044: CONVEXCOLL_TerraceA_250cm_porchSeparate 29
+    100046: CONVEXCOLL_TerraceA_250cm_porchSeparate 3
+    100048: CONVEXCOLL_TerraceA_250cm_porchSeparate 30
+    100050: CONVEXCOLL_TerraceA_250cm_porchSeparate 31
+    100052: CONVEXCOLL_TerraceA_250cm_porchSeparate 32
+    100054: CONVEXCOLL_TerraceA_250cm_porchSeparate 33
+    100056: CONVEXCOLL_TerraceA_250cm_porchSeparate 34
+    100058: CONVEXCOLL_TerraceA_250cm_porchSeparate 35
+    100060: CONVEXCOLL_TerraceA_250cm_porchSeparate 36
+    100062: CONVEXCOLL_TerraceA_250cm_porchSeparate 37
+    100064: CONVEXCOLL_TerraceA_250cm_porchSeparate 38
+    100066: CONVEXCOLL_TerraceA_250cm_porchSeparate 39
+    100068: CONVEXCOLL_TerraceA_250cm_porchSeparate 4
+    100070: CONVEXCOLL_TerraceA_250cm_porchSeparate 40
+    100072: CONVEXCOLL_TerraceA_250cm_porchSeparate 41
+    100074: CONVEXCOLL_TerraceA_250cm_porchSeparate 42
+    100076: CONVEXCOLL_TerraceA_250cm_porchSeparate 43
+    100078: CONVEXCOLL_TerraceA_250cm_porchSeparate 44
+    100080: CONVEXCOLL_TerraceA_250cm_porchSeparate 45
+    100082: CONVEXCOLL_TerraceA_250cm_porchSeparate 46
+    100084: CONVEXCOLL_TerraceA_250cm_porchSeparate 47
+    100086: CONVEXCOLL_TerraceA_250cm_porchSeparate 48
+    100088: CONVEXCOLL_TerraceA_250cm_porchSeparate 49
+    100090: CONVEXCOLL_TerraceA_250cm_porchSeparate 5
+    100092: CONVEXCOLL_TerraceA_250cm_porchSeparate 50
+    100094: CONVEXCOLL_TerraceA_250cm_porchSeparate 51
+    100096: CONVEXCOLL_TerraceA_250cm_porchSeparate 52
+    100098: CONVEXCOLL_TerraceA_250cm_porchSeparate 53
+    100100: CONVEXCOLL_TerraceA_250cm_porchSeparate 54
+    100102: CONVEXCOLL_TerraceA_250cm_porchSeparate 55
+    100104: CONVEXCOLL_TerraceA_250cm_porchSeparate 56
+    100106: CONVEXCOLL_TerraceA_250cm_porchSeparate 57
+    100108: CONVEXCOLL_TerraceA_250cm_porchSeparate 58
+    100110: CONVEXCOLL_TerraceA_250cm_porchSeparate 59
+    100112: CONVEXCOLL_TerraceA_250cm_porchSeparate 6
+    100114: CONVEXCOLL_TerraceA_250cm_porchSeparate 60
+    100116: CONVEXCOLL_TerraceA_250cm_porchSeparate 61
+    100118: CONVEXCOLL_TerraceA_250cm_porchSeparate 62
+    100120: CONVEXCOLL_TerraceA_250cm_porchSeparate 63
+    100122: CONVEXCOLL_TerraceA_250cm_porchSeparate 64
+    100124: CONVEXCOLL_TerraceA_250cm_porchSeparate 65
+    100126: CONVEXCOLL_TerraceA_250cm_porchSeparate 7
+    100128: CONVEXCOLL_TerraceA_250cm_porchSeparate 8
+    100130: CONVEXCOLL_TerraceA_250cm_porchSeparate 9
+    100132: TerraceA_250cm_porchSeparate
+    100134: //RootNode
+    400000: CONVEXCOLL_TerraceA_250cm_porchSeparate
+    400002: CONVEXCOLL_TerraceA_250cm_porchSeparate 1
+    400004: CONVEXCOLL_TerraceA_250cm_porchSeparate 10
+    400006: CONVEXCOLL_TerraceA_250cm_porchSeparate 11
+    400008: CONVEXCOLL_TerraceA_250cm_porchSeparate 12
+    400010: CONVEXCOLL_TerraceA_250cm_porchSeparate 13
+    400012: CONVEXCOLL_TerraceA_250cm_porchSeparate 14
+    400014: CONVEXCOLL_TerraceA_250cm_porchSeparate 15
+    400016: CONVEXCOLL_TerraceA_250cm_porchSeparate 16
+    400018: CONVEXCOLL_TerraceA_250cm_porchSeparate 17
+    400020: CONVEXCOLL_TerraceA_250cm_porchSeparate 18
+    400022: CONVEXCOLL_TerraceA_250cm_porchSeparate 19
+    400024: CONVEXCOLL_TerraceA_250cm_porchSeparate 2
+    400026: CONVEXCOLL_TerraceA_250cm_porchSeparate 20
+    400028: CONVEXCOLL_TerraceA_250cm_porchSeparate 21
+    400030: CONVEXCOLL_TerraceA_250cm_porchSeparate 22
+    400032: CONVEXCOLL_TerraceA_250cm_porchSeparate 23
+    400034: CONVEXCOLL_TerraceA_250cm_porchSeparate 24
+    400036: CONVEXCOLL_TerraceA_250cm_porchSeparate 25
+    400038: CONVEXCOLL_TerraceA_250cm_porchSeparate 26
+    400040: CONVEXCOLL_TerraceA_250cm_porchSeparate 27
+    400042: CONVEXCOLL_TerraceA_250cm_porchSeparate 28
+    400044: CONVEXCOLL_TerraceA_250cm_porchSeparate 29
+    400046: CONVEXCOLL_TerraceA_250cm_porchSeparate 3
+    400048: CONVEXCOLL_TerraceA_250cm_porchSeparate 30
+    400050: CONVEXCOLL_TerraceA_250cm_porchSeparate 31
+    400052: CONVEXCOLL_TerraceA_250cm_porchSeparate 32
+    400054: CONVEXCOLL_TerraceA_250cm_porchSeparate 33
+    400056: CONVEXCOLL_TerraceA_250cm_porchSeparate 34
+    400058: CONVEXCOLL_TerraceA_250cm_porchSeparate 35
+    400060: CONVEXCOLL_TerraceA_250cm_porchSeparate 36
+    400062: CONVEXCOLL_TerraceA_250cm_porchSeparate 37
+    400064: CONVEXCOLL_TerraceA_250cm_porchSeparate 38
+    400066: CONVEXCOLL_TerraceA_250cm_porchSeparate 39
+    400068: CONVEXCOLL_TerraceA_250cm_porchSeparate 4
+    400070: CONVEXCOLL_TerraceA_250cm_porchSeparate 40
+    400072: CONVEXCOLL_TerraceA_250cm_porchSeparate 41
+    400074: CONVEXCOLL_TerraceA_250cm_porchSeparate 42
+    400076: CONVEXCOLL_TerraceA_250cm_porchSeparate 43
+    400078: CONVEXCOLL_TerraceA_250cm_porchSeparate 44
+    400080: CONVEXCOLL_TerraceA_250cm_porchSeparate 45
+    400082: CONVEXCOLL_TerraceA_250cm_porchSeparate 46
+    400084: CONVEXCOLL_TerraceA_250cm_porchSeparate 47
+    400086: CONVEXCOLL_TerraceA_250cm_porchSeparate 48
+    400088: CONVEXCOLL_TerraceA_250cm_porchSeparate 49
+    400090: CONVEXCOLL_TerraceA_250cm_porchSeparate 5
+    400092: CONVEXCOLL_TerraceA_250cm_porchSeparate 50
+    400094: CONVEXCOLL_TerraceA_250cm_porchSeparate 51
+    400096: CONVEXCOLL_TerraceA_250cm_porchSeparate 52
+    400098: CONVEXCOLL_TerraceA_250cm_porchSeparate 53
+    400100: CONVEXCOLL_TerraceA_250cm_porchSeparate 54
+    400102: CONVEXCOLL_TerraceA_250cm_porchSeparate 55
+    400104: CONVEXCOLL_TerraceA_250cm_porchSeparate 56
+    400106: CONVEXCOLL_TerraceA_250cm_porchSeparate 57
+    400108: CONVEXCOLL_TerraceA_250cm_porchSeparate 58
+    400110: CONVEXCOLL_TerraceA_250cm_porchSeparate 59
+    400112: CONVEXCOLL_TerraceA_250cm_porchSeparate 6
+    400114: CONVEXCOLL_TerraceA_250cm_porchSeparate 60
+    400116: CONVEXCOLL_TerraceA_250cm_porchSeparate 61
+    400118: CONVEXCOLL_TerraceA_250cm_porchSeparate 62
+    400120: CONVEXCOLL_TerraceA_250cm_porchSeparate 63
+    400122: CONVEXCOLL_TerraceA_250cm_porchSeparate 64
+    400124: CONVEXCOLL_TerraceA_250cm_porchSeparate 65
+    400126: CONVEXCOLL_TerraceA_250cm_porchSeparate 7
+    400128: CONVEXCOLL_TerraceA_250cm_porchSeparate 8
+    400130: CONVEXCOLL_TerraceA_250cm_porchSeparate 9
+    400132: TerraceA_250cm_porchSeparate
+    400134: //RootNode
+    2100000: No Name
+    2100002: Exterior_mtl
+    2100004: BricksOld_mtl
+    2100006: WallsSiding_mtl
+    2100008: RoofWood_mtl
+    2300000: CONVEXCOLL_TerraceA_250cm_porchSeparate
+    2300002: CONVEXCOLL_TerraceA_250cm_porchSeparate 1
+    2300004: CONVEXCOLL_TerraceA_250cm_porchSeparate 10
+    2300006: CONVEXCOLL_TerraceA_250cm_porchSeparate 11
+    2300008: CONVEXCOLL_TerraceA_250cm_porchSeparate 12
+    2300010: CONVEXCOLL_TerraceA_250cm_porchSeparate 13
+    2300012: CONVEXCOLL_TerraceA_250cm_porchSeparate 14
+    2300014: CONVEXCOLL_TerraceA_250cm_porchSeparate 15
+    2300016: CONVEXCOLL_TerraceA_250cm_porchSeparate 16
+    2300018: CONVEXCOLL_TerraceA_250cm_porchSeparate 17
+    2300020: CONVEXCOLL_TerraceA_250cm_porchSeparate 18
+    2300022: CONVEXCOLL_TerraceA_250cm_porchSeparate 19
+    2300024: CONVEXCOLL_TerraceA_250cm_porchSeparate 2
+    2300026: CONVEXCOLL_TerraceA_250cm_porchSeparate 20
+    2300028: CONVEXCOLL_TerraceA_250cm_porchSeparate 21
+    2300030: CONVEXCOLL_TerraceA_250cm_porchSeparate 22
+    2300032: CONVEXCOLL_TerraceA_250cm_porchSeparate 23
+    2300034: CONVEXCOLL_TerraceA_250cm_porchSeparate 24
+    2300036: CONVEXCOLL_TerraceA_250cm_porchSeparate 25
+    2300038: CONVEXCOLL_TerraceA_250cm_porchSeparate 26
+    2300040: CONVEXCOLL_TerraceA_250cm_porchSeparate 27
+    2300042: CONVEXCOLL_TerraceA_250cm_porchSeparate 28
+    2300044: CONVEXCOLL_TerraceA_250cm_porchSeparate 29
+    2300046: CONVEXCOLL_TerraceA_250cm_porchSeparate 3
+    2300048: CONVEXCOLL_TerraceA_250cm_porchSeparate 30
+    2300050: CONVEXCOLL_TerraceA_250cm_porchSeparate 31
+    2300052: CONVEXCOLL_TerraceA_250cm_porchSeparate 32
+    2300054: CONVEXCOLL_TerraceA_250cm_porchSeparate 33
+    2300056: CONVEXCOLL_TerraceA_250cm_porchSeparate 34
+    2300058: CONVEXCOLL_TerraceA_250cm_porchSeparate 35
+    2300060: CONVEXCOLL_TerraceA_250cm_porchSeparate 36
+    2300062: CONVEXCOLL_TerraceA_250cm_porchSeparate 37
+    2300064: CONVEXCOLL_TerraceA_250cm_porchSeparate 38
+    2300066: CONVEXCOLL_TerraceA_250cm_porchSeparate 39
+    2300068: CONVEXCOLL_TerraceA_250cm_porchSeparate 4
+    2300070: CONVEXCOLL_TerraceA_250cm_porchSeparate 40
+    2300072: CONVEXCOLL_TerraceA_250cm_porchSeparate 41
+    2300074: CONVEXCOLL_TerraceA_250cm_porchSeparate 42
+    2300076: CONVEXCOLL_TerraceA_250cm_porchSeparate 43
+    2300078: CONVEXCOLL_TerraceA_250cm_porchSeparate 44
+    2300080: CONVEXCOLL_TerraceA_250cm_porchSeparate 45
+    2300082: CONVEXCOLL_TerraceA_250cm_porchSeparate 46
+    2300084: CONVEXCOLL_TerraceA_250cm_porchSeparate 47
+    2300086: CONVEXCOLL_TerraceA_250cm_porchSeparate 48
+    2300088: CONVEXCOLL_TerraceA_250cm_porchSeparate 49
+    2300090: CONVEXCOLL_TerraceA_250cm_porchSeparate 5
+    2300092: CONVEXCOLL_TerraceA_250cm_porchSeparate 50
+    2300094: CONVEXCOLL_TerraceA_250cm_porchSeparate 51
+    2300096: CONVEXCOLL_TerraceA_250cm_porchSeparate 52
+    2300098: CONVEXCOLL_TerraceA_250cm_porchSeparate 53
+    2300100: CONVEXCOLL_TerraceA_250cm_porchSeparate 54
+    2300102: CONVEXCOLL_TerraceA_250cm_porchSeparate 55
+    2300104: CONVEXCOLL_TerraceA_250cm_porchSeparate 56
+    2300106: CONVEXCOLL_TerraceA_250cm_porchSeparate 57
+    2300108: CONVEXCOLL_TerraceA_250cm_porchSeparate 58
+    2300110: CONVEXCOLL_TerraceA_250cm_porchSeparate 59
+    2300112: CONVEXCOLL_TerraceA_250cm_porchSeparate 6
+    2300114: CONVEXCOLL_TerraceA_250cm_porchSeparate 60
+    2300116: CONVEXCOLL_TerraceA_250cm_porchSeparate 61
+    2300118: CONVEXCOLL_TerraceA_250cm_porchSeparate 62
+    2300120: CONVEXCOLL_TerraceA_250cm_porchSeparate 63
+    2300122: CONVEXCOLL_TerraceA_250cm_porchSeparate 64
+    2300124: CONVEXCOLL_TerraceA_250cm_porchSeparate 65
+    2300126: CONVEXCOLL_TerraceA_250cm_porchSeparate 7
+    2300128: CONVEXCOLL_TerraceA_250cm_porchSeparate 8
+    2300130: CONVEXCOLL_TerraceA_250cm_porchSeparate 9
+    2300132: TerraceA_250cm_porchSeparate
+    3300000: CONVEXCOLL_TerraceA_250cm_porchSeparate
+    3300002: CONVEXCOLL_TerraceA_250cm_porchSeparate 1
+    3300004: CONVEXCOLL_TerraceA_250cm_porchSeparate 10
+    3300006: CONVEXCOLL_TerraceA_250cm_porchSeparate 11
+    3300008: CONVEXCOLL_TerraceA_250cm_porchSeparate 12
+    3300010: CONVEXCOLL_TerraceA_250cm_porchSeparate 13
+    3300012: CONVEXCOLL_TerraceA_250cm_porchSeparate 14
+    3300014: CONVEXCOLL_TerraceA_250cm_porchSeparate 15
+    3300016: CONVEXCOLL_TerraceA_250cm_porchSeparate 16
+    3300018: CONVEXCOLL_TerraceA_250cm_porchSeparate 17
+    3300020: CONVEXCOLL_TerraceA_250cm_porchSeparate 18
+    3300022: CONVEXCOLL_TerraceA_250cm_porchSeparate 19
+    3300024: CONVEXCOLL_TerraceA_250cm_porchSeparate 2
+    3300026: CONVEXCOLL_TerraceA_250cm_porchSeparate 20
+    3300028: CONVEXCOLL_TerraceA_250cm_porchSeparate 21
+    3300030: CONVEXCOLL_TerraceA_250cm_porchSeparate 22
+    3300032: CONVEXCOLL_TerraceA_250cm_porchSeparate 23
+    3300034: CONVEXCOLL_TerraceA_250cm_porchSeparate 24
+    3300036: CONVEXCOLL_TerraceA_250cm_porchSeparate 25
+    3300038: CONVEXCOLL_TerraceA_250cm_porchSeparate 26
+    3300040: CONVEXCOLL_TerraceA_250cm_porchSeparate 27
+    3300042: CONVEXCOLL_TerraceA_250cm_porchSeparate 28
+    3300044: CONVEXCOLL_TerraceA_250cm_porchSeparate 29
+    3300046: CONVEXCOLL_TerraceA_250cm_porchSeparate 3
+    3300048: CONVEXCOLL_TerraceA_250cm_porchSeparate 30
+    3300050: CONVEXCOLL_TerraceA_250cm_porchSeparate 31
+    3300052: CONVEXCOLL_TerraceA_250cm_porchSeparate 32
+    3300054: CONVEXCOLL_TerraceA_250cm_porchSeparate 33
+    3300056: CONVEXCOLL_TerraceA_250cm_porchSeparate 34
+    3300058: CONVEXCOLL_TerraceA_250cm_porchSeparate 35
+    3300060: CONVEXCOLL_TerraceA_250cm_porchSeparate 36
+    3300062: CONVEXCOLL_TerraceA_250cm_porchSeparate 37
+    3300064: CONVEXCOLL_TerraceA_250cm_porchSeparate 38
+    3300066: CONVEXCOLL_TerraceA_250cm_porchSeparate 39
+    3300068: CONVEXCOLL_TerraceA_250cm_porchSeparate 4
+    3300070: CONVEXCOLL_TerraceA_250cm_porchSeparate 40
+    3300072: CONVEXCOLL_TerraceA_250cm_porchSeparate 41
+    3300074: CONVEXCOLL_TerraceA_250cm_porchSeparate 42
+    3300076: CONVEXCOLL_TerraceA_250cm_porchSeparate 43
+    3300078: CONVEXCOLL_TerraceA_250cm_porchSeparate 44
+    3300080: CONVEXCOLL_TerraceA_250cm_porchSeparate 45
+    3300082: CONVEXCOLL_TerraceA_250cm_porchSeparate 46
+    3300084: CONVEXCOLL_TerraceA_250cm_porchSeparate 47
+    3300086: CONVEXCOLL_TerraceA_250cm_porchSeparate 48
+    3300088: CONVEXCOLL_TerraceA_250cm_porchSeparate 49
+    3300090: CONVEXCOLL_TerraceA_250cm_porchSeparate 5
+    3300092: CONVEXCOLL_TerraceA_250cm_porchSeparate 50
+    3300094: CONVEXCOLL_TerraceA_250cm_porchSeparate 51
+    3300096: CONVEXCOLL_TerraceA_250cm_porchSeparate 52
+    3300098: CONVEXCOLL_TerraceA_250cm_porchSeparate 53
+    3300100: CONVEXCOLL_TerraceA_250cm_porchSeparate 54
+    3300102: CONVEXCOLL_TerraceA_250cm_porchSeparate 55
+    3300104: CONVEXCOLL_TerraceA_250cm_porchSeparate 56
+    3300106: CONVEXCOLL_TerraceA_250cm_porchSeparate 57
+    3300108: CONVEXCOLL_TerraceA_250cm_porchSeparate 58
+    3300110: CONVEXCOLL_TerraceA_250cm_porchSeparate 59
+    3300112: CONVEXCOLL_TerraceA_250cm_porchSeparate 6
+    3300114: CONVEXCOLL_TerraceA_250cm_porchSeparate 60
+    3300116: CONVEXCOLL_TerraceA_250cm_porchSeparate 61
+    3300118: CONVEXCOLL_TerraceA_250cm_porchSeparate 62
+    3300120: CONVEXCOLL_TerraceA_250cm_porchSeparate 63
+    3300122: CONVEXCOLL_TerraceA_250cm_porchSeparate 64
+    3300124: CONVEXCOLL_TerraceA_250cm_porchSeparate 65
+    3300126: CONVEXCOLL_TerraceA_250cm_porchSeparate 7
+    3300128: CONVEXCOLL_TerraceA_250cm_porchSeparate 8
+    3300130: CONVEXCOLL_TerraceA_250cm_porchSeparate 9
+    3300132: TerraceA_250cm_porchSeparate
+    4300000: CONVEXCOLL_TerraceA_250cm_porchSeparate
+    4300002: CONVEXCOLL_TerraceA_250cm_porchSeparate
+    4300004: CONVEXCOLL_TerraceA_250cm_porchSeparate
+    4300006: CONVEXCOLL_TerraceA_250cm_porchSeparate
+    4300008: CONVEXCOLL_TerraceA_250cm_porchSeparate
+    4300010: CONVEXCOLL_TerraceA_250cm_porchSeparate
+    4300012: CONVEXCOLL_TerraceA_250cm_porchSeparate
+    4300014: CONVEXCOLL_TerraceA_250cm_porchSeparate
+    4300016: CONVEXCOLL_TerraceA_250cm_porchSeparate
+    4300018: CONVEXCOLL_TerraceA_250cm_porchSeparate
+    4300020: CONVEXCOLL_TerraceA_250cm_porchSeparate
+    4300022: CONVEXCOLL_TerraceA_250cm_porchSeparate
+    4300024: CONVEXCOLL_TerraceA_250cm_porchSeparate
+    4300026: CONVEXCOLL_TerraceA_250cm_porchSeparate
+    4300028: CONVEXCOLL_TerraceA_250cm_porchSeparate
+    4300030: CONVEXCOLL_TerraceA_250cm_porchSeparate
+    4300032: CONVEXCOLL_TerraceA_250cm_porchSeparate
+    4300034: CONVEXCOLL_TerraceA_250cm_porchSeparate
+    4300036: CONVEXCOLL_TerraceA_250cm_porchSeparate
+    4300038: CONVEXCOLL_TerraceA_250cm_porchSeparate
+    4300040: CONVEXCOLL_TerraceA_250cm_porchSeparate
+    4300042: CONVEXCOLL_TerraceA_250cm_porchSeparate
+    4300044: CONVEXCOLL_TerraceA_250cm_porchSeparate
+    4300046: CONVEXCOLL_TerraceA_250cm_porchSeparate
+    4300048: CONVEXCOLL_TerraceA_250cm_porchSeparate
+    4300050: CONVEXCOLL_TerraceA_250cm_porchSeparate
+    4300052: CONVEXCOLL_TerraceA_250cm_porchSeparate
+    4300054: CONVEXCOLL_TerraceA_250cm_porchSeparate
+    4300056: CONVEXCOLL_TerraceA_250cm_porchSeparate
+    4300058: CONVEXCOLL_TerraceA_250cm_porchSeparate
+    4300060: CONVEXCOLL_TerraceA_250cm_porchSeparate
+    4300062: CONVEXCOLL_TerraceA_250cm_porchSeparate
+    4300064: CONVEXCOLL_TerraceA_250cm_porchSeparate
+    4300066: CONVEXCOLL_TerraceA_250cm_porchSeparate
+    4300068: CONVEXCOLL_TerraceA_250cm_porchSeparate
+    4300070: TerraceA_250cm_porchSeparate
+    4300072: CONVEXCOLL_TerraceA_250cm_porchSeparate
+    4300074: CONVEXCOLL_TerraceA_250cm_porchSeparate
+    4300076: CONVEXCOLL_TerraceA_250cm_porchSeparate
+    4300078: CONVEXCOLL_TerraceA_250cm_porchSeparate
+    4300080: CONVEXCOLL_TerraceA_250cm_porchSeparate
+    4300082: CONVEXCOLL_TerraceA_250cm_porchSeparate
+    4300084: CONVEXCOLL_TerraceA_250cm_porchSeparate
+    4300086: CONVEXCOLL_TerraceA_250cm_porchSeparate
+    4300088: CONVEXCOLL_TerraceA_250cm_porchSeparate
+    4300090: CONVEXCOLL_TerraceA_250cm_porchSeparate
+    4300092: CONVEXCOLL_TerraceA_250cm_porchSeparate
+    4300094: CONVEXCOLL_TerraceA_250cm_porchSeparate
+    4300096: CONVEXCOLL_TerraceA_250cm_porchSeparate
+    4300098: CONVEXCOLL_TerraceA_250cm_porchSeparate
+    4300100: CONVEXCOLL_TerraceA_250cm_porchSeparate
+    4300102: CONVEXCOLL_TerraceA_250cm_porchSeparate
+    4300104: CONVEXCOLL_TerraceA_250cm_porchSeparate
+    4300106: CONVEXCOLL_TerraceA_250cm_porchSeparate
+    4300108: CONVEXCOLL_TerraceA_250cm_porchSeparate
+    4300110: CONVEXCOLL_TerraceA_250cm_porchSeparate
+    4300112: CONVEXCOLL_TerraceA_250cm_porchSeparate
+    4300114: CONVEXCOLL_TerraceA_250cm_porchSeparate
+    4300116: CONVEXCOLL_TerraceA_250cm_porchSeparate
+    4300118: CONVEXCOLL_TerraceA_250cm_porchSeparate
+    4300120: CONVEXCOLL_TerraceA_250cm_porchSeparate
+    4300122: CONVEXCOLL_TerraceA_250cm_porchSeparate
+    4300124: CONVEXCOLL_TerraceA_250cm_porchSeparate
+    4300126: CONVEXCOLL_TerraceA_250cm_porchSeparate
+    4300128: CONVEXCOLL_TerraceA_250cm_porchSeparate
+    4300130: CONVEXCOLL_TerraceA_250cm_porchSeparate
+    4300132: CONVEXCOLL_TerraceA_250cm_porchSeparate
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 154929
+  packageName: HQ Retro Farmhouse (Modular)
+  packageVersion: 1.2.2
+  assetPath: Assets/NOT_Lonely/HQ_RetroFarmhouse/Meshes/Modules/Exterior/TerraceA_250cm_porchSeparate.fbx
+  uploadId: 403257

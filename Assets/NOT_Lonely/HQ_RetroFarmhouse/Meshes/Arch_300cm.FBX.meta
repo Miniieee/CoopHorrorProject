@@ -1,0 +1,242 @@
+fileFormatVersion: 2
+guid: e05bac0c253a04f4c950f72042d59503
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Arch_300cm 1
+    100004: COLLCONVEX_Arch_055
+    100006: COLLCONVEX_Arch_056
+    100008: COLLCONVEX_Arch_057
+    100010: COLLCONVEX_Arch_058
+    100012: COLLCONVEX_Arch_059
+    100014: COLLCONVEX_Arch_060
+    100016: COLLCONVEX_Arch_061
+    100018: COLLCONVEX_Arch_062
+    100020: COLLCONVEX_Arch_063
+    100022: COLLCONVEX_Arch_064
+    100024: COLLCONVEX_Arch_065
+    100026: COLLCONVEX_Arch_066
+    100028: COLLCONVEX_Arch_067
+    100030: COLLCONVEX_Arch_068
+    100032: COLLCONVEX_Arch_069
+    100034: COLLCONVEX_Arch_070
+    100036: COLLCONVEX_Arch_071
+    100038: COLLCONVEX_Arch_072
+    100040: COLLCONVEX_Arch_073
+    100042: COLLCONVEX_Arch_074
+    100044: COLLCONVEX_Arch_075
+    100046: COLLCONVEX_Arch_076
+    100048: COLLCONVEX_Arch_077
+    100050: COLLCONVEX_Arch_078
+    100052: COLLCONVEX_Arch_079
+    100054: COLLCONVEX_Arch_080
+    100056: COLLCONVEX_Arch_081
+    400000: //RootNode
+    400002: Arch_300cm 1
+    400004: COLLCONVEX_Arch_055
+    400006: COLLCONVEX_Arch_056
+    400008: COLLCONVEX_Arch_057
+    400010: COLLCONVEX_Arch_058
+    400012: COLLCONVEX_Arch_059
+    400014: COLLCONVEX_Arch_060
+    400016: COLLCONVEX_Arch_061
+    400018: COLLCONVEX_Arch_062
+    400020: COLLCONVEX_Arch_063
+    400022: COLLCONVEX_Arch_064
+    400024: COLLCONVEX_Arch_065
+    400026: COLLCONVEX_Arch_066
+    400028: COLLCONVEX_Arch_067
+    400030: COLLCONVEX_Arch_068
+    400032: COLLCONVEX_Arch_069
+    400034: COLLCONVEX_Arch_070
+    400036: COLLCONVEX_Arch_071
+    400038: COLLCONVEX_Arch_072
+    400040: COLLCONVEX_Arch_073
+    400042: COLLCONVEX_Arch_074
+    400044: COLLCONVEX_Arch_075
+    400046: COLLCONVEX_Arch_076
+    400048: COLLCONVEX_Arch_077
+    400050: COLLCONVEX_Arch_078
+    400052: COLLCONVEX_Arch_079
+    400054: COLLCONVEX_Arch_080
+    400056: COLLCONVEX_Arch_081
+    2100000: ArchAndPlinth_mtl
+    2100002: No Name
+    2300000: Arch_300cm 1
+    2300002: COLLCONVEX_Arch_055
+    2300004: COLLCONVEX_Arch_056
+    2300006: COLLCONVEX_Arch_057
+    2300008: COLLCONVEX_Arch_058
+    2300010: COLLCONVEX_Arch_059
+    2300012: COLLCONVEX_Arch_060
+    2300014: COLLCONVEX_Arch_061
+    2300016: COLLCONVEX_Arch_062
+    2300018: COLLCONVEX_Arch_063
+    2300020: COLLCONVEX_Arch_064
+    2300022: COLLCONVEX_Arch_065
+    2300024: COLLCONVEX_Arch_066
+    2300026: COLLCONVEX_Arch_067
+    2300028: COLLCONVEX_Arch_068
+    2300030: COLLCONVEX_Arch_069
+    2300032: COLLCONVEX_Arch_070
+    2300034: COLLCONVEX_Arch_071
+    2300036: COLLCONVEX_Arch_072
+    2300038: COLLCONVEX_Arch_073
+    2300040: COLLCONVEX_Arch_074
+    2300042: COLLCONVEX_Arch_075
+    2300044: COLLCONVEX_Arch_076
+    2300046: COLLCONVEX_Arch_077
+    2300048: COLLCONVEX_Arch_078
+    2300050: COLLCONVEX_Arch_079
+    2300052: COLLCONVEX_Arch_080
+    2300054: COLLCONVEX_Arch_081
+    3300000: Arch_300cm 1
+    3300002: COLLCONVEX_Arch_055
+    3300004: COLLCONVEX_Arch_056
+    3300006: COLLCONVEX_Arch_057
+    3300008: COLLCONVEX_Arch_058
+    3300010: COLLCONVEX_Arch_059
+    3300012: COLLCONVEX_Arch_060
+    3300014: COLLCONVEX_Arch_061
+    3300016: COLLCONVEX_Arch_062
+    3300018: COLLCONVEX_Arch_063
+    3300020: COLLCONVEX_Arch_064
+    3300022: COLLCONVEX_Arch_065
+    3300024: COLLCONVEX_Arch_066
+    3300026: COLLCONVEX_Arch_067
+    3300028: COLLCONVEX_Arch_068
+    3300030: COLLCONVEX_Arch_069
+    3300032: COLLCONVEX_Arch_070
+    3300034: COLLCONVEX_Arch_071
+    3300036: COLLCONVEX_Arch_072
+    3300038: COLLCONVEX_Arch_073
+    3300040: COLLCONVEX_Arch_074
+    3300042: COLLCONVEX_Arch_075
+    3300044: COLLCONVEX_Arch_076
+    3300046: COLLCONVEX_Arch_077
+    3300048: COLLCONVEX_Arch_078
+    3300050: COLLCONVEX_Arch_079
+    3300052: COLLCONVEX_Arch_080
+    3300054: COLLCONVEX_Arch_081
+    4300000: Arch_300cm
+    4300002: COLLCONVEX_Arch_055
+    4300004: COLLCONVEX_Arch_056
+    4300006: COLLCONVEX_Arch_057
+    4300008: COLLCONVEX_Arch_058
+    4300010: COLLCONVEX_Arch_059
+    4300012: COLLCONVEX_Arch_060
+    4300014: COLLCONVEX_Arch_061
+    4300016: COLLCONVEX_Arch_062
+    4300018: COLLCONVEX_Arch_063
+    4300020: COLLCONVEX_Arch_064
+    4300022: COLLCONVEX_Arch_065
+    4300024: COLLCONVEX_Arch_066
+    4300026: COLLCONVEX_Arch_067
+    4300028: COLLCONVEX_Arch_068
+    4300030: COLLCONVEX_Arch_069
+    4300032: COLLCONVEX_Arch_070
+    4300034: COLLCONVEX_Arch_071
+    4300036: COLLCONVEX_Arch_072
+    4300038: COLLCONVEX_Arch_073
+    4300040: COLLCONVEX_Arch_074
+    4300042: COLLCONVEX_Arch_075
+    4300044: COLLCONVEX_Arch_076
+    4300046: COLLCONVEX_Arch_077
+    4300048: COLLCONVEX_Arch_078
+    4300050: COLLCONVEX_Arch_079
+    4300052: COLLCONVEX_Arch_080
+    4300054: COLLCONVEX_Arch_081
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 154929
+  packageName: HQ Retro Farmhouse (Modular)
+  packageVersion: 1.2.2
+  assetPath: Assets/NOT_Lonely/HQ_RetroFarmhouse/Meshes/Arch_300cm.FBX
+  uploadId: 403257

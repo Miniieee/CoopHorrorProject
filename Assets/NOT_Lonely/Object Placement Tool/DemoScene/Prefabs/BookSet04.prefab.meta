@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 5039f888dbad8c54bbd959f7d3438df3
+timeCreated: 1504540285
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 154929
+  packageName: HQ Retro Farmhouse (Modular)
+  packageVersion: 1.2.2
+  assetPath: Assets/NOT_Lonely/Object Placement Tool/DemoScene/Prefabs/BookSet04.prefab
+  uploadId: 403257

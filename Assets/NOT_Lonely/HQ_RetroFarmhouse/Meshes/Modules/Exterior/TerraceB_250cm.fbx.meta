@@ -1,0 +1,294 @@
+fileFormatVersion: 2
+guid: 5342f13c97ea06a4da93318e153f2aef
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: CONVEXCOLL_TerraceB_250cm
+    100004: CONVEXCOLL_TerraceB_250cm 1
+    100006: CONVEXCOLL_TerraceB_250cm 10
+    100008: CONVEXCOLL_TerraceB_250cm 11
+    100010: CONVEXCOLL_TerraceB_250cm 12
+    100012: CONVEXCOLL_TerraceB_250cm 13
+    100014: CONVEXCOLL_TerraceB_250cm 14
+    100016: CONVEXCOLL_TerraceB_250cm 15
+    100018: CONVEXCOLL_TerraceB_250cm 16
+    100020: CONVEXCOLL_TerraceB_250cm 17
+    100022: CONVEXCOLL_TerraceB_250cm 18
+    100024: CONVEXCOLL_TerraceB_250cm 19
+    100026: CONVEXCOLL_TerraceB_250cm 2
+    100028: CONVEXCOLL_TerraceB_250cm 20
+    100030: CONVEXCOLL_TerraceB_250cm 21
+    100032: CONVEXCOLL_TerraceB_250cm 22
+    100034: CONVEXCOLL_TerraceB_250cm 23
+    100036: CONVEXCOLL_TerraceB_250cm 24
+    100038: CONVEXCOLL_TerraceB_250cm 25
+    100040: CONVEXCOLL_TerraceB_250cm 26
+    100042: CONVEXCOLL_TerraceB_250cm 3
+    100044: CONVEXCOLL_TerraceB_250cm 4
+    100046: CONVEXCOLL_TerraceB_250cm 5
+    100048: CONVEXCOLL_TerraceB_250cm 6
+    100050: CONVEXCOLL_TerraceB_250cm 7
+    100052: CONVEXCOLL_TerraceB_250cm 8
+    100054: CONVEXCOLL_TerraceB_250cm 9
+    100056: TerraceB_250cm
+    100058: CONVEXCOLL_TerraceB_250cm 27
+    400000: //RootNode
+    400002: CONVEXCOLL_TerraceB_250cm
+    400004: CONVEXCOLL_TerraceB_250cm 1
+    400006: CONVEXCOLL_TerraceB_250cm 10
+    400008: CONVEXCOLL_TerraceB_250cm 11
+    400010: CONVEXCOLL_TerraceB_250cm 12
+    400012: CONVEXCOLL_TerraceB_250cm 13
+    400014: CONVEXCOLL_TerraceB_250cm 14
+    400016: CONVEXCOLL_TerraceB_250cm 15
+    400018: CONVEXCOLL_TerraceB_250cm 16
+    400020: CONVEXCOLL_TerraceB_250cm 17
+    400022: CONVEXCOLL_TerraceB_250cm 18
+    400024: CONVEXCOLL_TerraceB_250cm 19
+    400026: CONVEXCOLL_TerraceB_250cm 2
+    400028: CONVEXCOLL_TerraceB_250cm 20
+    400030: CONVEXCOLL_TerraceB_250cm 21
+    400032: CONVEXCOLL_TerraceB_250cm 22
+    400034: CONVEXCOLL_TerraceB_250cm 23
+    400036: CONVEXCOLL_TerraceB_250cm 24
+    400038: CONVEXCOLL_TerraceB_250cm 25
+    400040: CONVEXCOLL_TerraceB_250cm 26
+    400042: CONVEXCOLL_TerraceB_250cm 3
+    400044: CONVEXCOLL_TerraceB_250cm 4
+    400046: CONVEXCOLL_TerraceB_250cm 5
+    400048: CONVEXCOLL_TerraceB_250cm 6
+    400050: CONVEXCOLL_TerraceB_250cm 7
+    400052: CONVEXCOLL_TerraceB_250cm 8
+    400054: CONVEXCOLL_TerraceB_250cm 9
+    400056: TerraceB_250cm
+    400058: CONVEXCOLL_TerraceB_250cm 27
+    2100000: Exterior_mtl
+    2100002: BricksOld_mtl
+    2100004: RoofWood_mtl
+    2300000: //RootNode
+    2300002: CONVEXCOLL_TerraceB_250cm
+    2300004: CONVEXCOLL_TerraceB_250cm 1
+    2300006: CONVEXCOLL_TerraceB_250cm 10
+    2300008: CONVEXCOLL_TerraceB_250cm 11
+    2300010: CONVEXCOLL_TerraceB_250cm 12
+    2300012: CONVEXCOLL_TerraceB_250cm 13
+    2300014: CONVEXCOLL_TerraceB_250cm 14
+    2300016: CONVEXCOLL_TerraceB_250cm 15
+    2300018: CONVEXCOLL_TerraceB_250cm 16
+    2300020: CONVEXCOLL_TerraceB_250cm 17
+    2300022: CONVEXCOLL_TerraceB_250cm 18
+    2300024: CONVEXCOLL_TerraceB_250cm 19
+    2300026: CONVEXCOLL_TerraceB_250cm 2
+    2300028: CONVEXCOLL_TerraceB_250cm 20
+    2300030: CONVEXCOLL_TerraceB_250cm 21
+    2300032: CONVEXCOLL_TerraceB_250cm 22
+    2300034: CONVEXCOLL_TerraceB_250cm 23
+    2300036: CONVEXCOLL_TerraceB_250cm 24
+    2300038: CONVEXCOLL_TerraceB_250cm 25
+    2300040: CONVEXCOLL_TerraceB_250cm 26
+    2300042: CONVEXCOLL_TerraceB_250cm 3
+    2300044: CONVEXCOLL_TerraceB_250cm 4
+    2300046: CONVEXCOLL_TerraceB_250cm 5
+    2300048: CONVEXCOLL_TerraceB_250cm 6
+    2300050: CONVEXCOLL_TerraceB_250cm 7
+    2300052: CONVEXCOLL_TerraceB_250cm 8
+    2300054: CONVEXCOLL_TerraceB_250cm 9
+    2300056: TerraceB_250cm
+    2300058: CONVEXCOLL_TerraceB_250cm 27
+    3300000: //RootNode
+    3300002: CONVEXCOLL_TerraceB_250cm
+    3300004: CONVEXCOLL_TerraceB_250cm 1
+    3300006: CONVEXCOLL_TerraceB_250cm 10
+    3300008: CONVEXCOLL_TerraceB_250cm 11
+    3300010: CONVEXCOLL_TerraceB_250cm 12
+    3300012: CONVEXCOLL_TerraceB_250cm 13
+    3300014: CONVEXCOLL_TerraceB_250cm 14
+    3300016: CONVEXCOLL_TerraceB_250cm 15
+    3300018: CONVEXCOLL_TerraceB_250cm 16
+    3300020: CONVEXCOLL_TerraceB_250cm 17
+    3300022: CONVEXCOLL_TerraceB_250cm 18
+    3300024: CONVEXCOLL_TerraceB_250cm 19
+    3300026: CONVEXCOLL_TerraceB_250cm 2
+    3300028: CONVEXCOLL_TerraceB_250cm 20
+    3300030: CONVEXCOLL_TerraceB_250cm 21
+    3300032: CONVEXCOLL_TerraceB_250cm 22
+    3300034: CONVEXCOLL_TerraceB_250cm 23
+    3300036: CONVEXCOLL_TerraceB_250cm 24
+    3300038: CONVEXCOLL_TerraceB_250cm 25
+    3300040: CONVEXCOLL_TerraceB_250cm 26
+    3300042: CONVEXCOLL_TerraceB_250cm 3
+    3300044: CONVEXCOLL_TerraceB_250cm 4
+    3300046: CONVEXCOLL_TerraceB_250cm 5
+    3300048: CONVEXCOLL_TerraceB_250cm 6
+    3300050: CONVEXCOLL_TerraceB_250cm 7
+    3300052: CONVEXCOLL_TerraceB_250cm 8
+    3300054: CONVEXCOLL_TerraceB_250cm 9
+    3300056: TerraceB_250cm
+    3300058: CONVEXCOLL_TerraceB_250cm 27
+    4300000: TerraceB_250cm
+    4300002: CONVEXCOLL_TerraceB_250cm
+    4300004: CONVEXCOLL_TerraceB_250cm
+    4300006: CONVEXCOLL_TerraceB_250cm
+    4300008: CONVEXCOLL_TerraceB_250cm
+    4300010: CONVEXCOLL_TerraceB_250cm
+    4300012: CONVEXCOLL_TerraceB_250cm
+    4300014: CONVEXCOLL_TerraceB_250cm
+    4300016: CONVEXCOLL_TerraceB_250cm
+    4300018: CONVEXCOLL_TerraceB_250cm
+    4300020: CONVEXCOLL_TerraceB_250cm
+    4300022: CONVEXCOLL_TerraceB_250cm
+    4300024: CONVEXCOLL_TerraceB_250cm
+    4300026: CONVEXCOLL_TerraceB_250cm
+    4300028: CONVEXCOLL_TerraceB_250cm
+    4300030: CONVEXCOLL_TerraceB_250cm
+    4300032: CONVEXCOLL_TerraceB_250cm
+    4300034: CONVEXCOLL_TerraceB_250cm
+    4300036: CONVEXCOLL_TerraceB_250cm
+    4300038: CONVEXCOLL_TerraceB_250cm
+    4300040: CONVEXCOLL_TerraceB_250cm
+    4300042: CONVEXCOLL_TerraceB_250cm
+    4300044: CONVEXCOLL_TerraceB_250cm
+    4300046: CONVEXCOLL_TerraceB_250cm
+    4300048: CONVEXCOLL_TerraceB_250cm
+    4300050: CONVEXCOLL_TerraceB_250cm
+    4300052: CONVEXCOLL_TerraceB_250cm
+    4300054: CONVEXCOLL_TerraceB_250cm
+    4300056: CONVEXCOLL_TerraceB_250cm
+    6400000: //RootNode
+    6400002: CONVEXCOLL_TerraceB_250cm
+    6400004: CONVEXCOLL_TerraceB_250cm 1
+    6400006: CONVEXCOLL_TerraceB_250cm 10
+    6400008: CONVEXCOLL_TerraceB_250cm 11
+    6400010: CONVEXCOLL_TerraceB_250cm 12
+    6400012: CONVEXCOLL_TerraceB_250cm 13
+    6400014: CONVEXCOLL_TerraceB_250cm 14
+    6400016: CONVEXCOLL_TerraceB_250cm 15
+    6400018: CONVEXCOLL_TerraceB_250cm 16
+    6400020: CONVEXCOLL_TerraceB_250cm 17
+    6400022: CONVEXCOLL_TerraceB_250cm 18
+    6400024: CONVEXCOLL_TerraceB_250cm 19
+    6400026: CONVEXCOLL_TerraceB_250cm 2
+    6400028: CONVEXCOLL_TerraceB_250cm 20
+    6400030: CONVEXCOLL_TerraceB_250cm 21
+    6400032: CONVEXCOLL_TerraceB_250cm 22
+    6400034: CONVEXCOLL_TerraceB_250cm 23
+    6400036: CONVEXCOLL_TerraceB_250cm 24
+    6400038: CONVEXCOLL_TerraceB_250cm 25
+    6400040: CONVEXCOLL_TerraceB_250cm 26
+    6400042: CONVEXCOLL_TerraceB_250cm 3
+    6400044: CONVEXCOLL_TerraceB_250cm 4
+    6400046: CONVEXCOLL_TerraceB_250cm 5
+    6400048: CONVEXCOLL_TerraceB_250cm 6
+    6400050: CONVEXCOLL_TerraceB_250cm 7
+    6400052: CONVEXCOLL_TerraceB_250cm 8
+    6400054: CONVEXCOLL_TerraceB_250cm 9
+    6400056: TerraceB_250cm
+    6400058: CONVEXCOLL_TerraceB_250cm 27
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BricksOld_mtl
+    second: {fileID: 2100000, guid: 8c4a09670da4cb54c914b26c8bac167f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Exterior_mtl
+    second: {fileID: 2100000, guid: d52c8f82011d54041a56eb24b6e68a32, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: No Name
+    second: {fileID: 2100000, guid: af61ae1551b5da245ade74187cb19f12, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: RoofWood_mtl
+    second: {fileID: 2100000, guid: 883cac21606006748b3968d4d4685e9d, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 154929
+  packageName: HQ Retro Farmhouse (Modular)
+  packageVersion: 1.2.2
+  assetPath: Assets/NOT_Lonely/HQ_RetroFarmhouse/Meshes/Modules/Exterior/TerraceB_250cm.fbx
+  uploadId: 403257

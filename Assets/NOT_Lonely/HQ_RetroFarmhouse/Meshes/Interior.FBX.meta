@@ -1,0 +1,318 @@
+fileFormatVersion: 2
+guid: bac4bca413a09be4993873d2e1df4652
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: 1stFloor_Ceiling_bathroom
+    100002: 1stFloor_Ceiling_boiler
+    100004: 1stFloor_Ceiling_hall
+    100006: 1stFloor_Ceiling_kitchen
+    100008: 1stFloor_Ceiling_room
+    100010: 1stFloor_Floor_boiler
+    100012: 1stFloor_Floor_hall
+    100014: 1stFloor_Floor_kitchen
+    100016: 1stFloor_Floor_room
+    100018: 1stFloor_ToiletFloor
+    100020: 1stFloor_Walls_bathroom
+    100022: 1stFloor_Walls_boiler
+    100024: 1stFloor_Walls_hall
+    100026: 1stFloor_Walls_kitchen
+    100028: 1stFloor_Walls_room
+    100030: 2ndFloor_Ceiling_roomA
+    100032: 2ndFloor_Ceiling_roomB
+    100034: 2ndFloor_Ceiling_stairs
+    100036: 2ndFloor_Floor_roomA
+    100038: 2ndFloor_Floor_roomB
+    100040: 2ndFloor_Floor_stairs
+    100042: 2ndFloor_Walls_roomA
+    100044: 2ndFloor_Walls_roomB
+    100046: 2ndFloor_Walls_stairs
+    100048: //RootNode
+    100050: 1stFloor_Ceiling_basementStairs
+    100052: 1stFloor_Walls_basementStairs
+    100054: Basement_ceiling
+    100056: Basement_floor
+    100058: Basement_walls
+    100060: Basement_woodConstructions
+    400000: 1stFloor_Ceiling_bathroom
+    400002: 1stFloor_Ceiling_boiler
+    400004: 1stFloor_Ceiling_hall
+    400006: 1stFloor_Ceiling_kitchen
+    400008: 1stFloor_Ceiling_room
+    400010: 1stFloor_Floor_boiler
+    400012: 1stFloor_Floor_hall
+    400014: 1stFloor_Floor_kitchen
+    400016: 1stFloor_Floor_room
+    400018: 1stFloor_ToiletFloor
+    400020: 1stFloor_Walls_bathroom
+    400022: 1stFloor_Walls_boiler
+    400024: 1stFloor_Walls_hall
+    400026: 1stFloor_Walls_kitchen
+    400028: 1stFloor_Walls_room
+    400030: 2ndFloor_Ceiling_roomA
+    400032: 2ndFloor_Ceiling_roomB
+    400034: 2ndFloor_Ceiling_stairs
+    400036: 2ndFloor_Floor_roomA
+    400038: 2ndFloor_Floor_roomB
+    400040: 2ndFloor_Floor_stairs
+    400042: 2ndFloor_Walls_roomA
+    400044: 2ndFloor_Walls_roomB
+    400046: 2ndFloor_Walls_stairs
+    400048: //RootNode
+    400050: 1stFloor_Ceiling_basementStairs
+    400052: 1stFloor_Walls_basementStairs
+    400054: Basement_ceiling
+    400056: Basement_floor
+    400058: Basement_walls
+    400060: Basement_woodConstructions
+    2100000: Wallpaper_01_mtl
+    2100002: ArchAndPlinth_mtl
+    2100004: PlasterA_mtl
+    2100006: Parquet_mtl
+    2300000: 1stFloor_Ceiling_bathroom
+    2300002: 1stFloor_Ceiling_boiler
+    2300004: 1stFloor_Ceiling_hall
+    2300006: 1stFloor_Ceiling_kitchen
+    2300008: 1stFloor_Ceiling_room
+    2300010: 1stFloor_Floor_boiler
+    2300012: 1stFloor_Floor_hall
+    2300014: 1stFloor_Floor_kitchen
+    2300016: 1stFloor_Floor_room
+    2300018: 1stFloor_ToiletFloor
+    2300020: 1stFloor_Walls_bathroom
+    2300022: 1stFloor_Walls_boiler
+    2300024: 1stFloor_Walls_hall
+    2300026: 1stFloor_Walls_kitchen
+    2300028: 1stFloor_Walls_room
+    2300030: 2ndFloor_Ceiling_roomA
+    2300032: 2ndFloor_Ceiling_roomB
+    2300034: 2ndFloor_Ceiling_stairs
+    2300036: 2ndFloor_Floor_roomA
+    2300038: 2ndFloor_Floor_roomB
+    2300040: 2ndFloor_Floor_stairs
+    2300042: 2ndFloor_Walls_roomA
+    2300044: 2ndFloor_Walls_roomB
+    2300046: 2ndFloor_Walls_stairs
+    2300048: 1stFloor_Ceiling_basementStairs
+    2300050: 1stFloor_Walls_basementStairs
+    2300052: Basement_ceiling
+    2300054: Basement_floor
+    2300056: Basement_walls
+    2300058: Basement_woodConstructions
+    3300000: 1stFloor_Ceiling_bathroom
+    3300002: 1stFloor_Ceiling_boiler
+    3300004: 1stFloor_Ceiling_hall
+    3300006: 1stFloor_Ceiling_kitchen
+    3300008: 1stFloor_Ceiling_room
+    3300010: 1stFloor_Floor_boiler
+    3300012: 1stFloor_Floor_hall
+    3300014: 1stFloor_Floor_kitchen
+    3300016: 1stFloor_Floor_room
+    3300018: 1stFloor_ToiletFloor
+    3300020: 1stFloor_Walls_bathroom
+    3300022: 1stFloor_Walls_boiler
+    3300024: 1stFloor_Walls_hall
+    3300026: 1stFloor_Walls_kitchen
+    3300028: 1stFloor_Walls_room
+    3300030: 2ndFloor_Ceiling_roomA
+    3300032: 2ndFloor_Ceiling_roomB
+    3300034: 2ndFloor_Ceiling_stairs
+    3300036: 2ndFloor_Floor_roomA
+    3300038: 2ndFloor_Floor_roomB
+    3300040: 2ndFloor_Floor_stairs
+    3300042: 2ndFloor_Walls_roomA
+    3300044: 2ndFloor_Walls_roomB
+    3300046: 2ndFloor_Walls_stairs
+    3300048: 1stFloor_Ceiling_basementStairs
+    3300050: 1stFloor_Walls_basementStairs
+    3300052: Basement_ceiling
+    3300054: Basement_floor
+    3300056: Basement_walls
+    3300058: Basement_woodConstructions
+    4300000: 2ndFloor_Walls_roomB
+    4300002: 1stFloor_Ceiling_hall
+    4300004: 1stFloor_Floor_hall
+    4300006: 2ndFloor_Ceiling_stairs
+    4300008: 1stFloor_Floor_kitchen
+    4300010: 1stFloor_Ceiling_kitchen
+    4300012: 1stFloor_Walls_boiler
+    4300014: 1stFloor_Floor_boiler
+    4300016: 1stFloor_ToiletFloor
+    4300018: 1stFloor_Floor_room
+    4300020: 2ndFloor_Floor_roomB
+    4300022: 1stFloor_Walls_hall
+    4300024: 1stFloor_Walls_room
+    4300026: 1stFloor_Walls_bathroom
+    4300028: 1stFloor_Walls_kitchen
+    4300030: 1stFloor_Ceiling_room
+    4300032: 1stFloor_Ceiling_bathroom
+    4300034: 1stFloor_Ceiling_boiler
+    4300036: 2ndFloor_Walls_stairs
+    4300038: 2ndFloor_Walls_roomA
+    4300040: 2ndFloor_Ceiling_roomA
+    4300042: 2ndFloor_Ceiling_roomB
+    4300044: 2ndFloor_Floor_stairs
+    4300046: 2ndFloor_Floor_roomA
+    4300048: Basement_walls
+    4300050: Basement_floor
+    4300052: Basement_ceiling
+    4300054: 1stFloor_Walls_basementStairs
+    4300056: 1stFloor_Ceiling_basementStairs
+    4300058: Basement_woodConstructions
+    6400000: 1stFloor_Ceiling_bathroom
+    6400002: 1stFloor_Ceiling_boiler
+    6400004: 1stFloor_Ceiling_hall
+    6400006: 1stFloor_Ceiling_kitchen
+    6400008: 1stFloor_Ceiling_room
+    6400010: 1stFloor_Floor_boiler
+    6400012: 1stFloor_Floor_hall
+    6400014: 1stFloor_Floor_kitchen
+    6400016: 1stFloor_Floor_room
+    6400018: 1stFloor_ToiletFloor
+    6400020: 1stFloor_Walls_bathroom
+    6400022: 1stFloor_Walls_boiler
+    6400024: 1stFloor_Walls_hall
+    6400026: 1stFloor_Walls_kitchen
+    6400028: 1stFloor_Walls_room
+    6400030: 2ndFloor_Ceiling_roomA
+    6400032: 2ndFloor_Ceiling_roomB
+    6400034: 2ndFloor_Ceiling_stairs
+    6400036: 2ndFloor_Floor_roomA
+    6400038: 2ndFloor_Floor_roomB
+    6400040: 2ndFloor_Floor_stairs
+    6400042: 2ndFloor_Walls_roomA
+    6400044: 2ndFloor_Walls_roomB
+    6400046: 2ndFloor_Walls_stairs
+    6400048: 1stFloor_Ceiling_basementStairs
+    6400050: 1stFloor_Walls_basementStairs
+    6400052: Basement_ceiling
+    6400054: Basement_floor
+    6400056: Basement_walls
+    6400058: Basement_woodConstructions
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ArchAndPlinth_mtl
+    second: {fileID: 2100000, guid: f285d0b8b53f2c34fb206c6647e2c44f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BricksOld_mtl
+    second: {fileID: 2100000, guid: 8c4a09670da4cb54c914b26c8bac167f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Parquet_mtl
+    second: {fileID: 2100000, guid: b5e0644e64d74c34994604b7a8324683, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PlanksDirty_mtl
+    second: {fileID: 2100000, guid: dd0a4c3f5fe4ed44a87a6c915d036fe5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PlasterA_mtl
+    second: {fileID: 2100000, guid: d7c158c26d84f4647adbf7471640d458, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PlasterC_mtl
+    second: {fileID: 2100000, guid: 6874ce0ae68aba240a74178933ac699c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wallpaper_01_mtl
+    second: {fileID: 2100000, guid: 94a35b1fecb611e4ab25d047bbfc29f0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WoodOldA
+    second: {fileID: 2100000, guid: cfa27c1fae4f6d945adc7196cf43fcdb, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 154929
+  packageName: HQ Retro Farmhouse (Modular)
+  packageVersion: 1.2.2
+  assetPath: Assets/NOT_Lonely/HQ_RetroFarmhouse/Meshes/Interior.FBX
+  uploadId: 403257

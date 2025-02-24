@@ -1,0 +1,156 @@
+fileFormatVersion: 2
+guid: 69fa45a0eec035149b722415c283090d
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: CONVEXCOLL_Wall_out_250cm_cornerOut_windowL
+    100004: CONVEXCOLL_Wall_out_250cm_cornerOut_windowL 1
+    100006: CONVEXCOLL_Wall_out_250cm_cornerOut_windowL 2
+    100008: CONVEXCOLL_Wall_out_250cm_cornerOut_windowL 3
+    100010: CONVEXCOLL_Wall_out_250cm_cornerOut_windowL 4
+    100012: CONVEXCOLL_Wall_out_250cm_cornerOut_windowL 5
+    100014: Wall_out_250cm_cornerOut_windowL
+    400000: //RootNode
+    400002: CONVEXCOLL_Wall_out_250cm_cornerOut_windowL
+    400004: CONVEXCOLL_Wall_out_250cm_cornerOut_windowL 1
+    400006: CONVEXCOLL_Wall_out_250cm_cornerOut_windowL 2
+    400008: CONVEXCOLL_Wall_out_250cm_cornerOut_windowL 3
+    400010: CONVEXCOLL_Wall_out_250cm_cornerOut_windowL 4
+    400012: CONVEXCOLL_Wall_out_250cm_cornerOut_windowL 5
+    400014: Wall_out_250cm_cornerOut_windowL
+    2100000: Exterior_mtl
+    2100002: WallsSiding_mtl
+    2300000: //RootNode
+    2300002: CONVEXCOLL_Wall_out_250cm_cornerOut_windowL
+    2300004: CONVEXCOLL_Wall_out_250cm_cornerOut_windowL 1
+    2300006: CONVEXCOLL_Wall_out_250cm_cornerOut_windowL 2
+    2300008: CONVEXCOLL_Wall_out_250cm_cornerOut_windowL 3
+    2300010: CONVEXCOLL_Wall_out_250cm_cornerOut_windowL 4
+    2300012: CONVEXCOLL_Wall_out_250cm_cornerOut_windowL 5
+    2300014: Wall_out_250cm_cornerOut_windowL
+    3300000: //RootNode
+    3300002: CONVEXCOLL_Wall_out_250cm_cornerOut_windowL
+    3300004: CONVEXCOLL_Wall_out_250cm_cornerOut_windowL 1
+    3300006: CONVEXCOLL_Wall_out_250cm_cornerOut_windowL 2
+    3300008: CONVEXCOLL_Wall_out_250cm_cornerOut_windowL 3
+    3300010: CONVEXCOLL_Wall_out_250cm_cornerOut_windowL 4
+    3300012: CONVEXCOLL_Wall_out_250cm_cornerOut_windowL 5
+    3300014: Wall_out_250cm_cornerOut_windowL
+    4300000: Wall_out_250cm_cornerOut_windowL
+    4300002: CONVEXCOLL_Wall_out_250cm_cornerOut_windowL
+    4300004: CONVEXCOLL_Wall_out_250cm_cornerOut_windowL
+    4300006: CONVEXCOLL_Wall_out_250cm_cornerOut_windowL
+    4300008: CONVEXCOLL_Wall_out_250cm_cornerOut_windowL
+    4300010: CONVEXCOLL_Wall_out_250cm_cornerOut_windowL
+    4300012: CONVEXCOLL_Wall_out_250cm_cornerOut_windowL
+    6400000: //RootNode
+    6400002: CONVEXCOLL_Wall_out_250cm_cornerOut_windowL
+    6400004: CONVEXCOLL_Wall_out_250cm_cornerOut_windowL 1
+    6400006: CONVEXCOLL_Wall_out_250cm_cornerOut_windowL 2
+    6400008: CONVEXCOLL_Wall_out_250cm_cornerOut_windowL 3
+    6400010: CONVEXCOLL_Wall_out_250cm_cornerOut_windowL 4
+    6400012: CONVEXCOLL_Wall_out_250cm_cornerOut_windowL 5
+    6400014: Wall_out_250cm_cornerOut_windowL
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Exterior_mtl
+    second: {fileID: 2100000, guid: d52c8f82011d54041a56eb24b6e68a32, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: No Name
+    second: {fileID: 2100000, guid: af61ae1551b5da245ade74187cb19f12, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WallsSiding_mtl
+    second: {fileID: 2100000, guid: c83c054e26fdf024989221acb3e8f514, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 154929
+  packageName: HQ Retro Farmhouse (Modular)
+  packageVersion: 1.2.2
+  assetPath: Assets/NOT_Lonely/HQ_RetroFarmhouse/Meshes/Modules/Exterior/Wall_out_250cm_cornerOut_windowL.fbx
+  uploadId: 403257

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 4196d100556171a449b8295791e3cdde
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 154929
+  packageName: HQ Retro Farmhouse (Modular)
+  packageVersion: 1.2.2
+  assetPath: Assets/NOT_Lonely/HQ_RetroFarmhouse/Shaders/NOT_Lonely_Cobweb.shader
+  uploadId: 403257

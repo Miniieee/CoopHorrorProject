@@ -1,0 +1,243 @@
+fileFormatVersion: 2
+guid: a98c710cfedde154bb07519d9d5bf717
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: COLLCONVEX_StairsMainBalustrade_001
+    100002: COLLCONVEX_StairsMainBalustrade_002
+    100004: COLLCONVEX_StairsMainBalustrade_003
+    100006: COLLCONVEX_StairsMainBalustrade_004
+    100008: COLLCONVEX_StairsMainBalustrade_005
+    100010: COLLCONVEX_StairsMainBalustrade_006
+    100012: COLLCONVEX_StairsMainBalustrade_007
+    100014: COLLCONVEX_StairsMainBalustrade_008
+    100016: COLLCONVEX_StairsMainBalustrade_009
+    100018: COLLCONVEX_StairsMainBalustrade_010
+    100020: COLLCONVEX_StairsMainBalustrade_011
+    100022: COLLCONVEX_StairsMainBalustrade_012
+    100024: COLLCONVEX_StairsMainBalustrade_013
+    100026: COLLCONVEX_StairsMainBalustrade_014
+    100028: COLLCONVEX_StairsMainBalustrade_015
+    100030: COLLCONVEX_StairsMainBalustrade_016
+    100032: COLLCONVEX_StairsMainBalustrade_017
+    100034: COLLCONVEX_StairsMainBalustrade_018
+    100036: COLLCONVEX_StairsMainBalustrade_019
+    100038: COLLCONVEX_StairsMainBalustrade_020
+    100040: //RootNode
+    100042: StairsMainBalustrade_colliders
+    100044: StairsMainBalustrade_LOD0
+    100046: StairsMainBalustrade_LOD1
+    400000: COLLCONVEX_StairsMainBalustrade_001
+    400002: COLLCONVEX_StairsMainBalustrade_002
+    400004: COLLCONVEX_StairsMainBalustrade_003
+    400006: COLLCONVEX_StairsMainBalustrade_004
+    400008: COLLCONVEX_StairsMainBalustrade_005
+    400010: COLLCONVEX_StairsMainBalustrade_006
+    400012: COLLCONVEX_StairsMainBalustrade_007
+    400014: COLLCONVEX_StairsMainBalustrade_008
+    400016: COLLCONVEX_StairsMainBalustrade_009
+    400018: COLLCONVEX_StairsMainBalustrade_010
+    400020: COLLCONVEX_StairsMainBalustrade_011
+    400022: COLLCONVEX_StairsMainBalustrade_012
+    400024: COLLCONVEX_StairsMainBalustrade_013
+    400026: COLLCONVEX_StairsMainBalustrade_014
+    400028: COLLCONVEX_StairsMainBalustrade_015
+    400030: COLLCONVEX_StairsMainBalustrade_016
+    400032: COLLCONVEX_StairsMainBalustrade_017
+    400034: COLLCONVEX_StairsMainBalustrade_018
+    400036: COLLCONVEX_StairsMainBalustrade_019
+    400038: COLLCONVEX_StairsMainBalustrade_020
+    400040: //RootNode
+    400042: StairsMainBalustrade_colliders
+    400044: StairsMainBalustrade_LOD0
+    400046: StairsMainBalustrade_LOD1
+    2100000: StairsMain_mtl
+    2100002: default
+    2300000: COLLCONVEX_StairsMainBalustrade_001
+    2300002: COLLCONVEX_StairsMainBalustrade_002
+    2300004: COLLCONVEX_StairsMainBalustrade_003
+    2300006: COLLCONVEX_StairsMainBalustrade_004
+    2300008: COLLCONVEX_StairsMainBalustrade_005
+    2300010: COLLCONVEX_StairsMainBalustrade_006
+    2300012: COLLCONVEX_StairsMainBalustrade_007
+    2300014: COLLCONVEX_StairsMainBalustrade_008
+    2300016: COLLCONVEX_StairsMainBalustrade_009
+    2300018: COLLCONVEX_StairsMainBalustrade_010
+    2300020: COLLCONVEX_StairsMainBalustrade_011
+    2300022: COLLCONVEX_StairsMainBalustrade_012
+    2300024: COLLCONVEX_StairsMainBalustrade_013
+    2300026: COLLCONVEX_StairsMainBalustrade_014
+    2300028: COLLCONVEX_StairsMainBalustrade_015
+    2300030: COLLCONVEX_StairsMainBalustrade_016
+    2300032: COLLCONVEX_StairsMainBalustrade_017
+    2300034: COLLCONVEX_StairsMainBalustrade_018
+    2300036: COLLCONVEX_StairsMainBalustrade_019
+    2300038: COLLCONVEX_StairsMainBalustrade_020
+    2300040: StairsMainBalustrade_LOD0
+    2300042: StairsMainBalustrade_LOD1
+    3300000: COLLCONVEX_StairsMainBalustrade_001
+    3300002: COLLCONVEX_StairsMainBalustrade_002
+    3300004: COLLCONVEX_StairsMainBalustrade_003
+    3300006: COLLCONVEX_StairsMainBalustrade_004
+    3300008: COLLCONVEX_StairsMainBalustrade_005
+    3300010: COLLCONVEX_StairsMainBalustrade_006
+    3300012: COLLCONVEX_StairsMainBalustrade_007
+    3300014: COLLCONVEX_StairsMainBalustrade_008
+    3300016: COLLCONVEX_StairsMainBalustrade_009
+    3300018: COLLCONVEX_StairsMainBalustrade_010
+    3300020: COLLCONVEX_StairsMainBalustrade_011
+    3300022: COLLCONVEX_StairsMainBalustrade_012
+    3300024: COLLCONVEX_StairsMainBalustrade_013
+    3300026: COLLCONVEX_StairsMainBalustrade_014
+    3300028: COLLCONVEX_StairsMainBalustrade_015
+    3300030: COLLCONVEX_StairsMainBalustrade_016
+    3300032: COLLCONVEX_StairsMainBalustrade_017
+    3300034: COLLCONVEX_StairsMainBalustrade_018
+    3300036: COLLCONVEX_StairsMainBalustrade_019
+    3300038: COLLCONVEX_StairsMainBalustrade_020
+    3300040: StairsMainBalustrade_LOD0
+    3300042: StairsMainBalustrade_LOD1
+    4300000: StairsMainBalustrade_LOD0
+    4300002: StairsMainBalustrade_LOD1
+    4300004: COLLCONVEX_StairsMainBalustrade_011
+    4300006: COLLCONVEX_StairsMainBalustrade_005
+    4300008: COLLCONVEX_StairsMainBalustrade_006
+    4300010: COLLCONVEX_StairsMainBalustrade_007
+    4300012: COLLCONVEX_StairsMainBalustrade_008
+    4300014: COLLCONVEX_StairsMainBalustrade_009
+    4300016: COLLCONVEX_StairsMainBalustrade_010
+    4300018: COLLCONVEX_StairsMainBalustrade_017
+    4300020: COLLCONVEX_StairsMainBalustrade_012
+    4300022: COLLCONVEX_StairsMainBalustrade_013
+    4300024: COLLCONVEX_StairsMainBalustrade_014
+    4300026: COLLCONVEX_StairsMainBalustrade_015
+    4300028: COLLCONVEX_StairsMainBalustrade_016
+    4300030: COLLCONVEX_StairsMainBalustrade_003
+    4300032: COLLCONVEX_StairsMainBalustrade_004
+    4300034: COLLCONVEX_StairsMainBalustrade_002
+    4300036: COLLCONVEX_StairsMainBalustrade_001
+    4300038: COLLCONVEX_StairsMainBalustrade_019
+    4300040: COLLCONVEX_StairsMainBalustrade_018
+    4300042: COLLCONVEX_StairsMainBalustrade_020
+    6400000: COLLCONVEX_StairsMainBalustrade_001
+    6400002: COLLCONVEX_StairsMainBalustrade_002
+    6400004: COLLCONVEX_StairsMainBalustrade_003
+    6400006: COLLCONVEX_StairsMainBalustrade_004
+    6400008: COLLCONVEX_StairsMainBalustrade_005
+    6400010: COLLCONVEX_StairsMainBalustrade_006
+    6400012: COLLCONVEX_StairsMainBalustrade_007
+    6400014: COLLCONVEX_StairsMainBalustrade_008
+    6400016: COLLCONVEX_StairsMainBalustrade_009
+    6400018: COLLCONVEX_StairsMainBalustrade_010
+    6400020: COLLCONVEX_StairsMainBalustrade_011
+    6400022: COLLCONVEX_StairsMainBalustrade_012
+    6400024: COLLCONVEX_StairsMainBalustrade_013
+    6400026: COLLCONVEX_StairsMainBalustrade_014
+    6400028: COLLCONVEX_StairsMainBalustrade_015
+    6400030: COLLCONVEX_StairsMainBalustrade_016
+    6400032: COLLCONVEX_StairsMainBalustrade_017
+    6400034: COLLCONVEX_StairsMainBalustrade_018
+    6400036: COLLCONVEX_StairsMainBalustrade_019
+    6400038: COLLCONVEX_StairsMainBalustrade_020
+    6400040: StairsMainBalustrade_LOD0
+    6400042: StairsMainBalustrade_LOD1
+    20500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: StairsMain_mtl
+    second: {fileID: 2100000, guid: 32438dfbc170f71468ec25557a476603, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: default
+    second: {fileID: 2100000, guid: d0ff44788e0e86c40b5d4d9eca4043bf, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages:
+    - 0.25
+    - 0.01
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 154929
+  packageName: HQ Retro Farmhouse (Modular)
+  packageVersion: 1.2.2
+  assetPath: Assets/NOT_Lonely/HQ_RetroFarmhouse/Meshes/Modules/Interior/StairsMainBalustrade.FBX
+  uploadId: 403257

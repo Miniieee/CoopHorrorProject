@@ -1,0 +1,181 @@
+fileFormatVersion: 2
+guid: 970975ab79468bb48a23632f52c4b1f4
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Radiator_short_LOD0
+    100004: Radiator_short_LOD1
+    100006: Radiator_short_LOD2
+    100008: CONVEXCOLL_Radiator_short
+    100010: CONVEXCOLL_Radiator_short 1
+    100012: CONVEXCOLL_Radiator_short 2
+    100014: CONVEXCOLL_Radiator_short 3
+    100016: CONVEXCOLL_Radiator_short 4
+    100018: CONVEXCOLL_Radiator_short 5
+    100020: CONVEXCOLL_Radiator_short 6
+    100022: CONVEXCOLL_Radiator_short 7
+    100024: CONVEXCOLL_Radiator_short 8
+    400000: //RootNode
+    400002: Radiator_short_LOD0
+    400004: Radiator_short_LOD1
+    400006: Radiator_short_LOD2
+    400008: CONVEXCOLL_Radiator_short
+    400010: CONVEXCOLL_Radiator_short 1
+    400012: CONVEXCOLL_Radiator_short 2
+    400014: CONVEXCOLL_Radiator_short 3
+    400016: CONVEXCOLL_Radiator_short 4
+    400018: CONVEXCOLL_Radiator_short 5
+    400020: CONVEXCOLL_Radiator_short 6
+    400022: CONVEXCOLL_Radiator_short 7
+    400024: CONVEXCOLL_Radiator_short 8
+    2100000: Radiator_mtl
+    2300000: Radiator_short_LOD0
+    2300002: Radiator_short_LOD1
+    2300004: Radiator_short_LOD2
+    2300006: CONVEXCOLL_Radiator_short
+    2300008: CONVEXCOLL_Radiator_short 1
+    2300010: CONVEXCOLL_Radiator_short 2
+    2300012: CONVEXCOLL_Radiator_short 3
+    2300014: CONVEXCOLL_Radiator_short 4
+    2300016: CONVEXCOLL_Radiator_short 5
+    2300018: CONVEXCOLL_Radiator_short 6
+    2300020: CONVEXCOLL_Radiator_short 7
+    2300022: CONVEXCOLL_Radiator_short 8
+    3300000: Radiator_short_LOD0
+    3300002: Radiator_short_LOD1
+    3300004: Radiator_short_LOD2
+    3300006: CONVEXCOLL_Radiator_short
+    3300008: CONVEXCOLL_Radiator_short 1
+    3300010: CONVEXCOLL_Radiator_short 2
+    3300012: CONVEXCOLL_Radiator_short 3
+    3300014: CONVEXCOLL_Radiator_short 4
+    3300016: CONVEXCOLL_Radiator_short 5
+    3300018: CONVEXCOLL_Radiator_short 6
+    3300020: CONVEXCOLL_Radiator_short 7
+    3300022: CONVEXCOLL_Radiator_short 8
+    4300000: Radiator_short_LOD0
+    4300002: Radiator_short_LOD1
+    4300004: Radiator_short_LOD2
+    4300006: CONVEXCOLL_Radiator_short
+    4300008: CONVEXCOLL_Radiator_short
+    4300010: CONVEXCOLL_Radiator_short
+    4300012: CONVEXCOLL_Radiator_short
+    4300014: CONVEXCOLL_Radiator_short
+    4300016: CONVEXCOLL_Radiator_short
+    4300018: CONVEXCOLL_Radiator_short
+    4300020: CONVEXCOLL_Radiator_short
+    4300022: CONVEXCOLL_Radiator_short
+    6400000: CONVEXCOLL_Radiator_short
+    6400002: CONVEXCOLL_Radiator_short 1
+    6400004: CONVEXCOLL_Radiator_short 2
+    6400006: CONVEXCOLL_Radiator_short 3
+    6400008: CONVEXCOLL_Radiator_short 4
+    6400010: CONVEXCOLL_Radiator_short 5
+    6400012: CONVEXCOLL_Radiator_short 6
+    6400014: CONVEXCOLL_Radiator_short 7
+    6400016: CONVEXCOLL_Radiator_short 8
+    6400018: Radiator_short_LOD0
+    6400020: Radiator_short_LOD1
+    6400022: Radiator_short_LOD2
+    20500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: No Name
+    second: {fileID: 2100000, guid: af61ae1551b5da245ade74187cb19f12, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Radiator_mtl
+    second: {fileID: 2100000, guid: 2075da4500d2b294f81ed8a0a98201ea, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages:
+    - 0.25
+    - 0.125
+    - 0.01
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 154929
+  packageName: HQ Retro Farmhouse (Modular)
+  packageVersion: 1.2.2
+  assetPath: Assets/NOT_Lonely/HQ_RetroFarmhouse/Meshes/Radiator_short.fbx
+  uploadId: 403257

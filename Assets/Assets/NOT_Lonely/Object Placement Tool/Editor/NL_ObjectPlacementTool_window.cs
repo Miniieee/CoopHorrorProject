@@ -354,7 +354,7 @@ public class NL_ObjectPlacementTool_window : EditorWindow
     void OnEnable()
     {
 
-        SceneView.duringSceneGui += Upd;
+        SceneView.onSceneGUIDelegate += Upd;
 
         EditorApplication.playModeStateChanged += OnPlaymodeStateChanged;
 
@@ -370,7 +370,7 @@ public class NL_ObjectPlacementTool_window : EditorWindow
     void OnDisable()
     {
         EditorApplication.playModeStateChanged -= OnPlaymodeStateChanged;
-        SceneView.duringSceneGui -= Upd;
+        SceneView.onSceneGUIDelegate -= Upd;
     }
 
     void DropAreaGUI()
@@ -811,7 +811,7 @@ public class NL_ObjectPlacementTool_window : EditorWindow
                 GUILayout.BeginHorizontal();
                 if (GUILayout.Button(new GUIContent("Spawn objects", "Press this button to spawn the objects at their positions, saved previously at the last edit."), GUILayout.Width(120)))
                 {
-
+                    
                 }
 
 

@@ -1,0 +1,31 @@
+Support Unity version 2019.4.15+
+
+
+
+ATTENTION!
+
+If you just purchased and imported this assets pack:
+Import the HDRP or URP unitypackage file, which are located in the root directory of the pack.
+
+
+If you already have one of these pipelines unitypackage installed before and just updated the pack from the Asset Store, use the provided steps to fix graphics artifacts (textures are flickering and swapping on all objects with the standard Lit shader):
+
+1. Import the HDRP or URP unitypackage file, which are located in the root directory of the pack.
+
+2. Go to the Window -> NOT_Lonely -> Shader Swapper.
+
+3. Click the red button "FIX SRP SHADERS"
+ 
+4. Remove everything from the Assets\NOT_Lonely\HQ_RetroFarmhouse\Shaders folder, except: 
+
+HeightMapTextureBlend
+MaskBlend_NL_graph
+MaskBlend3Colors_NL_graph
+MaskBlendSimple_NL_graph
+NOT_Lonely_RotateUVs_graph
+TranslucentAnim_NL_graph
+ 
+6. Select any object with the standard Lit shader and switch ON and OFF any shader feature checkbox on it, for example Alpha Clipping. This action will execute the shader compilation process and everything will work fine after that.
+
+HDRP Only:
+Add the SSS_DiffusionProfile, which is placed in Assets\NOT_Lonely\HQ_RetroFarmhouse\DemoScene into your HDRP Asset diffusion profiles list.

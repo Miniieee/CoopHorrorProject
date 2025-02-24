@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 040445a3edabd7445abe3c64d4f7f06a
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 8574412962073106934
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 154929
+  packageName: HQ Retro Farmhouse (Modular)
+  packageVersion: 1.2.2
+  assetPath: Assets/NOT_Lonely/HQ_RetroFarmhouse/DemoScene/TerrainLayers/layer_MossyGround01.terrainlayer
+  uploadId: 403257

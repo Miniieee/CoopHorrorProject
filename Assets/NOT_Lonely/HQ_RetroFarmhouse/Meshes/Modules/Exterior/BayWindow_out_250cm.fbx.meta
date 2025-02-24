@@ -1,0 +1,202 @@
+fileFormatVersion: 2
+guid: b43d9865d1e2c1a44966c78b57ae5995
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: BayWindow_out_250cm
+    100004: CONVEXCOLL_BayWindow_out_250cm
+    100006: CONVEXCOLL_BayWindow_out_250cm 1
+    100008: CONVEXCOLL_BayWindow_out_250cm 10
+    100010: CONVEXCOLL_BayWindow_out_250cm 11
+    100012: CONVEXCOLL_BayWindow_out_250cm 12
+    100014: CONVEXCOLL_BayWindow_out_250cm 2
+    100016: CONVEXCOLL_BayWindow_out_250cm 3
+    100018: CONVEXCOLL_BayWindow_out_250cm 4
+    100020: CONVEXCOLL_BayWindow_out_250cm 5
+    100022: CONVEXCOLL_BayWindow_out_250cm 6
+    100024: CONVEXCOLL_BayWindow_out_250cm 7
+    100026: CONVEXCOLL_BayWindow_out_250cm 8
+    100028: CONVEXCOLL_BayWindow_out_250cm 9
+    400000: //RootNode
+    400002: BayWindow_out_250cm
+    400004: CONVEXCOLL_BayWindow_out_250cm
+    400006: CONVEXCOLL_BayWindow_out_250cm 1
+    400008: CONVEXCOLL_BayWindow_out_250cm 10
+    400010: CONVEXCOLL_BayWindow_out_250cm 11
+    400012: CONVEXCOLL_BayWindow_out_250cm 12
+    400014: CONVEXCOLL_BayWindow_out_250cm 2
+    400016: CONVEXCOLL_BayWindow_out_250cm 3
+    400018: CONVEXCOLL_BayWindow_out_250cm 4
+    400020: CONVEXCOLL_BayWindow_out_250cm 5
+    400022: CONVEXCOLL_BayWindow_out_250cm 6
+    400024: CONVEXCOLL_BayWindow_out_250cm 7
+    400026: CONVEXCOLL_BayWindow_out_250cm 8
+    400028: CONVEXCOLL_BayWindow_out_250cm 9
+    2100000: WallsSiding_mtl
+    2100002: Exterior_mtl
+    2100004: RoofWood_mtl
+    2100006: No Name
+    2300000: BayWindow_out_250cm
+    2300002: CONVEXCOLL_BayWindow_out_250cm
+    2300004: CONVEXCOLL_BayWindow_out_250cm 1
+    2300006: CONVEXCOLL_BayWindow_out_250cm 10
+    2300008: CONVEXCOLL_BayWindow_out_250cm 11
+    2300010: CONVEXCOLL_BayWindow_out_250cm 12
+    2300012: CONVEXCOLL_BayWindow_out_250cm 2
+    2300014: CONVEXCOLL_BayWindow_out_250cm 3
+    2300016: CONVEXCOLL_BayWindow_out_250cm 4
+    2300018: CONVEXCOLL_BayWindow_out_250cm 5
+    2300020: CONVEXCOLL_BayWindow_out_250cm 6
+    2300022: CONVEXCOLL_BayWindow_out_250cm 7
+    2300024: CONVEXCOLL_BayWindow_out_250cm 8
+    2300026: CONVEXCOLL_BayWindow_out_250cm 9
+    3300000: BayWindow_out_250cm
+    3300002: CONVEXCOLL_BayWindow_out_250cm
+    3300004: CONVEXCOLL_BayWindow_out_250cm 1
+    3300006: CONVEXCOLL_BayWindow_out_250cm 10
+    3300008: CONVEXCOLL_BayWindow_out_250cm 11
+    3300010: CONVEXCOLL_BayWindow_out_250cm 12
+    3300012: CONVEXCOLL_BayWindow_out_250cm 2
+    3300014: CONVEXCOLL_BayWindow_out_250cm 3
+    3300016: CONVEXCOLL_BayWindow_out_250cm 4
+    3300018: CONVEXCOLL_BayWindow_out_250cm 5
+    3300020: CONVEXCOLL_BayWindow_out_250cm 6
+    3300022: CONVEXCOLL_BayWindow_out_250cm 7
+    3300024: CONVEXCOLL_BayWindow_out_250cm 8
+    3300026: CONVEXCOLL_BayWindow_out_250cm 9
+    4300000: BayWindow_out_250cm
+    4300002: CONVEXCOLL_BayWindow_out_250cm
+    4300004: CONVEXCOLL_BayWindow_out_250cm
+    4300006: CONVEXCOLL_BayWindow_out_250cm
+    4300008: CONVEXCOLL_BayWindow_out_250cm
+    4300010: CONVEXCOLL_BayWindow_out_250cm
+    4300012: CONVEXCOLL_BayWindow_out_250cm
+    4300014: CONVEXCOLL_BayWindow_out_250cm
+    4300016: CONVEXCOLL_BayWindow_out_250cm
+    4300018: CONVEXCOLL_BayWindow_out_250cm
+    4300020: CONVEXCOLL_BayWindow_out_250cm
+    4300022: CONVEXCOLL_BayWindow_out_250cm
+    4300024: CONVEXCOLL_BayWindow_out_250cm
+    4300026: CONVEXCOLL_BayWindow_out_250cm
+    6400000: BayWindow_out_250cm
+    6400002: CONVEXCOLL_BayWindow_out_250cm
+    6400004: CONVEXCOLL_BayWindow_out_250cm 1
+    6400006: CONVEXCOLL_BayWindow_out_250cm 10
+    6400008: CONVEXCOLL_BayWindow_out_250cm 11
+    6400010: CONVEXCOLL_BayWindow_out_250cm 12
+    6400012: CONVEXCOLL_BayWindow_out_250cm 2
+    6400014: CONVEXCOLL_BayWindow_out_250cm 3
+    6400016: CONVEXCOLL_BayWindow_out_250cm 4
+    6400018: CONVEXCOLL_BayWindow_out_250cm 5
+    6400020: CONVEXCOLL_BayWindow_out_250cm 6
+    6400022: CONVEXCOLL_BayWindow_out_250cm 7
+    6400024: CONVEXCOLL_BayWindow_out_250cm 8
+    6400026: CONVEXCOLL_BayWindow_out_250cm 9
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Exterior_mtl
+    second: {fileID: 2100000, guid: d52c8f82011d54041a56eb24b6e68a32, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: No Name
+    second: {fileID: 2100000, guid: af61ae1551b5da245ade74187cb19f12, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: RoofWood_mtl
+    second: {fileID: 2100000, guid: 883cac21606006748b3968d4d4685e9d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WallsSiding_mtl
+    second: {fileID: 2100000, guid: c83c054e26fdf024989221acb3e8f514, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 154929
+  packageName: HQ Retro Farmhouse (Modular)
+  packageVersion: 1.2.2
+  assetPath: Assets/NOT_Lonely/HQ_RetroFarmhouse/Meshes/Modules/Exterior/BayWindow_out_250cm.fbx
+  uploadId: 403257
