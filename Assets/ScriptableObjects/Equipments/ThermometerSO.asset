@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1b01a2da880851540bd637df8348f7ca, type: 3}
+  m_Name: ThermometerSO
+  m_EditorClassIdentifier: 
+  equipmentNetworkPrefab: {fileID: 2464418532727536662, guid: c9f73d06da39bf747b2255e6fcce787d, type: 3}
+  equipmentThirdPersonPrefab: {fileID: 7825936489116692872, guid: 78325c37e062b994187e6d04677cf7bc, type: 3}
+  equipmentFirstPersonPrefab: {fileID: 7825936489116692872, guid: d4f2bdaa785c034458f98151aa1bb7f4, type: 3}
+  equipmentName: Thermometer
