@@ -1,10 +1,12 @@
 using Sirenix.OdinInspector;
 using UnityEngine;
+using UnityEngine.Serialization;
 
 public class LightHandler : MonoBehaviour
 {
+    [FormerlySerializedAs("lightsContainer")]
     [Title("Light Container")]
-    [SerializeField] private GameObject lightsContainer;
+    [SerializeField] private Light light;
     
     [Title("Item materials", "Lit and unlit variants")]
     [SerializeField] private Material litMaterial;
@@ -25,7 +27,7 @@ public class LightHandler : MonoBehaviour
 
     private void Initialize()
     {
-        if(lightsContainer == null)
+        if(light == null)
         {
             Debug.LogError("Lights container is not assigned.");
             return;
@@ -36,9 +38,7 @@ public class LightHandler : MonoBehaviour
             return;
         }
         
-        Debug.LogError("Light Container is: " + lightsContainer.activeSelf + "Item is: " + gameObject.name);
-        
-        if (lightsContainer.activeSelf == false)
+        if (light.enabled == false)
         {
             currentMaterial = new Material(unlitMaterial);
         }
@@ -55,13 +55,13 @@ public class LightHandler : MonoBehaviour
     
     public void SetLightState(bool state)
     {
-        if (lightsContainer == null)
+        if (light == null)
         {
             Debug.LogError("Lights container is not assigned.");
             return;
         }
         
-        lightsContainer.SetActive(state);
+        light.enabled = state;
         
         if (state)
         {
