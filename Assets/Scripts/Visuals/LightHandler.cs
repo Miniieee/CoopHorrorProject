@@ -13,7 +13,6 @@ public class LightHandler : MonoBehaviour
     private Material currentMaterial;
     private MeshRenderer meshRenderer;
     
-    
     private void Awake()
     {
         meshRenderer = GetComponentInChildren<MeshRenderer>();
@@ -46,6 +45,31 @@ public class LightHandler : MonoBehaviour
         else
         {
             currentMaterial = new Material(litMaterial);
+        }
+        
+        meshRenderer.material = currentMaterial;
+    }
+    
+    // might need to make it more complex and set the lights individually, also might nod need to turn it off, just modify the intensity
+    // need testing in a scenario
+    
+    public void SetLightState(bool state)
+    {
+        if (lightsContainer == null)
+        {
+            Debug.LogError("Lights container is not assigned.");
+            return;
+        }
+        
+        lightsContainer.SetActive(state);
+        
+        if (state)
+        {
+            currentMaterial = new Material(litMaterial);
+        }
+        else
+        {
+            currentMaterial = new Material(unlitMaterial);
         }
         
         meshRenderer.material = currentMaterial;
