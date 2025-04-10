@@ -3070,6 +3070,14 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 661547132636423164, guid: 9ed823bd0e43b514cbe06c8437b59819, type: 3}
+      propertyPath: player1LightEventBus
+      value: 
+      objectReference: {fileID: 11400000, guid: 124a4376f6155b341b0d1af98cbf1468, type: 2}
+    - target: {fileID: 661547132636423164, guid: 9ed823bd0e43b514cbe06c8437b59819, type: 3}
+      propertyPath: player2LightEventBus
+      value: 
+      objectReference: {fileID: 11400000, guid: aeb01b3e20b4efb4fa194275ff8c7b4e, type: 2}
     - target: {fileID: 2122039410336716484, guid: 9ed823bd0e43b514cbe06c8437b59819, type: 3}
       propertyPath: m_Enabled
       value: 0
