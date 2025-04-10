@@ -1,16 +1,19 @@
+using ScriptableObjectsScripts;
 using Sirenix.OdinInspector;
 using UnityEngine;
 using UnityEngine.Serialization;
 
 public class LightHandler : MonoBehaviour
 {
-    [FormerlySerializedAs("lightsContainer")]
     [Title("Light Container")]
     [SerializeField] private Light light;
     
     [Title("Item materials", "Lit and unlit variants")]
     [SerializeField] private Material litMaterial;
     [SerializeField] private Material unlitMaterial;
+    
+    [Title("Scriptable Object Event Bus")]
+    [SerializeField] private LightEventBusSO lightEventBus;
     
     private Material currentMaterial;
     private MeshRenderer meshRenderer;
@@ -23,6 +26,7 @@ public class LightHandler : MonoBehaviour
     void Start()
     {
         Initialize();
+        lightEventBus.OnLightStateChanged += SetLightState;
     }
 
     private void Initialize()
@@ -73,6 +77,16 @@ public class LightHandler : MonoBehaviour
         }
         
         meshRenderer.material = currentMaterial;
+    }
+    
+    private void OnDestroy()
+    {
+        lightEventBus.OnLightStateChanged -= SetLightState;
+    }
+    
+    private void OnDisable()
+    {
+        lightEventBus.OnLightStateChanged -= SetLightState;
     }
 
 }
