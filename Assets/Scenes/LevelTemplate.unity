@@ -54911,6 +54911,18 @@ PrefabInstance:
       propertyPath: lightEventBus
       value: 
       objectReference: {fileID: 11400000, guid: 124a4376f6155b341b0d1af98cbf1468, type: 2}
+    - target: {fileID: 4666542393781076688, guid: d82d7744d871cab4da80efd7ba474507, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4666542393781076688, guid: d82d7744d871cab4da80efd7ba474507, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4666542393781076688, guid: d82d7744d871cab4da80efd7ba474507, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.494
+      objectReference: {fileID: 0}
     - target: {fileID: 4904166954900262254, guid: d82d7744d871cab4da80efd7ba474507, type: 3}
       propertyPath: m_Name
       value: LampWall_ON (1)
@@ -54954,6 +54966,14 @@ PrefabInstance:
     - target: {fileID: 4904166954900492622, guid: d82d7744d871cab4da80efd7ba474507, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8473077279142412029, guid: d82d7744d871cab4da80efd7ba474507, type: 3}
+      propertyPath: m_Range
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 8473077279142412029, guid: d82d7744d871cab4da80efd7ba474507, type: 3}
+      propertyPath: m_Intensity
+      value: 0.4
       objectReference: {fileID: 0}
     - target: {fileID: 8508933578627978101, guid: d82d7744d871cab4da80efd7ba474507, type: 3}
       propertyPath: m_IsActive
